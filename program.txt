@@ -4,7 +4,8 @@ second line
 //added new line
 3-line
 
-third line
+// deleted third line
+
 
 // edited
 fourth line
